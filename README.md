@@ -5,7 +5,7 @@
 Problem:
 *****************************************************
 	OCR a bank cheque is a Python based project to extract the text from a bank cheque leaf (Image)
-		Information like - IFS Code, Bank Name, Account Number will be attempted.
+		Meta Information like - IFS Code, Bank Name, Account Number will be attempted.
 *****************************************************
 
 ## Dependency Installation
