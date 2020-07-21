@@ -49,6 +49,30 @@ python ocr_an_img.py -i CUB_CHQ.JPG
 
 ```
 
+On 20-jul-2020
+```python
+python ocr_test.py -i AXIS_CHQ_1.jpg
+
+#above line will print the below
+
+Trying to process AXIS_CHQ_1.jpg
+True
+call begin_process
+
+will be processing  inputs\AXIS_CHQ_1.jpg
+custom_config =   -l hin+eng --psm 3
+Writing to outputs\AXIS_CHQ_1.jpg.txt
+
+Writing to outputs\AXIS_CHQ_1.jpg.txt
+
+Querying the  https://ifsc.razorpay.com/UTIB0004409
+Writing to outputs\AXIS_CHQ_1.jpg.txt
+
+UTIB0004409
+```
+
+# 🕉️ 🔱
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
